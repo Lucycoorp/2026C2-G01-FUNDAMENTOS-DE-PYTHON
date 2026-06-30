@@ -1,4 +1,5 @@
 """Practica Semana 07: analisis de emprendimientos costarricenses.
+https://github.com/Lucycoorp/2026C2-G01-FUNDAMENTOS-DE-PYTHON/tree/main/Clase%207
 
 Complete los espacios marcados con TODO. El objetivo es generar un reporte por
 sede usando listas, diccionarios, funciones, ciclos y condicionales.
