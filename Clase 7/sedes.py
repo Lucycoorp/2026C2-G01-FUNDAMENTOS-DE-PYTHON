@@ -40,4 +40,12 @@ sedes = [
         "ventas": [115000, 108000, 112000, 118000, 121000],
         "meta": 560000,
     },
+    
+{
+        "nombre": "Marisqueria Puntarenas",
+        "provincia": "Puntarenas",
+        "tipo": "Restaurante",
+        "ventas": [115000, 108000, 112000, 118000, 121000],
+        "meta": 560000,
+    },
 ]
